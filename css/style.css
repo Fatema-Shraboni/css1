@@ -1,0 +1,10 @@
+h1{ color: yellow;
+	background-color: green;
+	border: 3px solid red
+	
+ }
+ p{ color: teal;
+ 	font: 70px;
+    border: 1px dashed red;
+      } 
+h2{ text-align: center; }
